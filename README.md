@@ -1,1 +1,3 @@
-# auctionbotaz
+---
+sdk: docker
+---
